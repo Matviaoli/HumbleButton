@@ -1,5 +1,3 @@
-package botoesdeouro;
-
 import javax.swing.JFrame;
 
 public class BotoesDeOuro {
